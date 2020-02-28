@@ -1,2 +1,2 @@
 # ml-ds-zero2master
-Respository created to use at "Complete Machine Learning and Data Science: Zero to Mastery" course 
+* course link : https://udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
